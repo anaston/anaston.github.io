@@ -149,7 +149,7 @@ skills:
         icon: custom/databricks-1
   - name: Biological Data
     items:
-      - name: Imaging
+      - name: Imaging data
         description: ''
         percent: 100
         icon: custom/stack
@@ -157,7 +157,7 @@ skills:
         description: ''
         percent: 80
         icon: circle-stack
-      - name: Multi-omics
+      - name: Multi-omics data
         description: ''
         percent: 30
         icon: custom/genomic
