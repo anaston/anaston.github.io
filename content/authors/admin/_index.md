@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior Computational Scientist
+role: Senior Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -53,7 +53,7 @@ education:
     date_start: 2004-09-01
     date_end: 2012-06-30
 work:
-  - position: Senior Computational Scientist
+  - position: Senior Data Scientist, Senior Computational Scientist
     company_name: Turbine Simulated Cell Technologies Ltd., UK
     company_url: ''
     company_logo: ''
@@ -64,6 +64,8 @@ work:
       - Trained and evaluated deep learning models on large-scale (>1M examples) multi-omic and perturbation data to find novel drug targets and biomarkers for cancer
       - Improved the performance and the evaluation of deep learning models
       - Contributed to the automation of deep learning pipelines
+      - Optimized data integration approaches
+      - Established and improved data processing pipelines
     
   - position: Postdoctoral Researcher
     company_name: University of Cambridge, UK
@@ -141,11 +143,11 @@ skills:
         icon: devicon/azure
       - name: Docker
         description: ''
-        percent: 20
+        percent: 30
         icon: devicon/docker
       - name: Databricks
         description: ''
-        percent: 30
+        percent: 50
         icon: custom/databricks-1
   - name: Biological Data
     items:
@@ -159,7 +161,7 @@ skills:
         icon: circle-stack
       - name: Multi-omics data
         description: ''
-        percent: 30
+        percent: 40
         icon: custom/genomic
       - name: Tabular data
         description: ''
@@ -172,4 +174,4 @@ skills:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 ---
 
-Senior Computational Scientist with 10+ years of experience analysing biomedical data including multi-omics, tabular and imaging data. Work focuses on developments and applications of statistical and machine learning models with the aim of improving drug discovery and precision medicine.
+Senior Data Scientist with 10+ years of experience analysing biomedical data including multi-omics, tabular and imaging data. Work focuses on developments and applications of statistical and machine learning models with the aim of improving drug discovery and precision medicine.
